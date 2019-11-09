@@ -34,9 +34,15 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav mr-auto">
-
+                        <li class="nav-item">
+                            <a href="#"  class="nav-link" data-toggle="dropdown" role="button" aria-expanded="false">Блог</a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="#">Категории</a></li>
+                                <li><a href="#">Материалы</a></li>
+                            </ul>
+                        </li>
                     </ul>
-
+                   
                     <!-- Right Side Of Navbar -->
                     <ul class="navbar-nav ml-auto">
                         <!-- Authentication Links -->
